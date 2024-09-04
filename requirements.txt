@@ -5,3 +5,4 @@ torch
 tensorflow-text
 numpy
 pandas
+matplotlib
