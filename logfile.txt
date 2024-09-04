@@ -1,0 +1,96 @@
+(base) C:\Projects\EmotionInText>python web_scrapping_02.py
+Processed page 2 for shringaar_ras.php, total poems collected: 30
+Processed page 3 for shringaar_ras.php, total poems collected: 50
+Processed page 2 for haasya_ras.php, total poems collected: 13
+Processed page 3 for haasya_ras.php, total poems collected: 13
+Reached page limit for haasya_ras.php. Exiting.
+Processed page 2 for karun_ras.php, total poems collected: 30
+Processed page 3 for karun_ras.php, total poems collected: 50
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Reached page limit for raudra_ras.php. Exiting.
+Processed page 2 for veer_ras.php, total poems collected: 30
+Processed page 3 for veer_ras.php, total poems collected: 50
+Processed page 2 for bhayanak_ras.php, total poems collected: 5
+Processed page 3 for bhayanak_ras.php, total poems collected: 5
+Reached page limit for bhayanak_ras.php. Exiting.
+Processed page 2 for veebhatsa_ras.php, total poems collected: 8
+Processed page 3 for veebhatsa_ras.php, total poems collected: 8
+Reached page limit for veebhatsa_ras.php. Exiting.
+Processed page 2 for adbhut_ras.php, total poems collected: 30
+Processed page 2 for karun_ras.php, total poems collected: 30
+Processed page 3 for karun_ras.php, total poems collected: 50
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Reached page limit for raudra_ras.php. Exiting.
+Processed page 2 for veer_ras.php, total poems collected: 30
+Processed page 3 for veer_ras.php, total poems collected: 50
+Processed page 2 for bhayanak_ras.php, total poems collected: 5
+Processed page 3 for bhayanak_ras.php, total poems collected: 5
+Reached page limit for bhayanak_ras.php. Exiting.
+Processed page 2 for veebhatsa_ras.php, total poems collected: 8
+Processed page 3 for veebhatsa_ras.php, total poems collected: 8
+Processed page 2 for karun_ras.php, total poems collected: 30
+Processed page 3 for karun_ras.php, total poems collected: 50
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Reached page limit for raudra_ras.php. Exiting.
+Processed page 2 for veer_ras.php, total poems collected: 30
+Processed page 3 for veer_ras.php, total poems collected: 50
+Processed page 2 for bhayanak_ras.php, total poems collected: 5
+Processed page 3 for bhayanak_ras.php, total poems collected: 5
+Reached page limit for bhayanak_ras.php. Exiting.
+Processed page 2 for karun_ras.php, total poems collected: 30
+Processed page 3 for karun_ras.php, total poems collected: 50
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Reached page limit for raudra_ras.php. Exiting.
+Processed page 2 for veer_ras.php, total poems collected: 30
+Processed page 3 for veer_ras.php, total poems collected: 50
+Processed page 2 for bhayanak_ras.php, total poems collected: 5
+Processed page 3 for bhayanak_ras.php, total poems collected: 5
+Processed page 2 for karun_ras.php, total poems collected: 30
+Processed page 3 for karun_ras.php, total poems collected: 50
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Reached page limit for raudra_ras.php. Exiting.
+Processed page 2 for veer_ras.php, total poems collected: 30
+Processed page 2 for karun_ras.php, total poems collected: 30
+Processed page 3 for karun_ras.php, total poems collected: 50
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Reached page limit for raudra_ras.php. Exiting.
+Processed page 2 for veer_ras.php, total poems collected: 30
+Processed page 3 for veer_ras.php, total poems collected: 50
+Processed page 2 for karun_ras.php, total poems collected: 30
+Processed page 3 for karun_ras.php, total poems collected: 50
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Reached page limit for raudra_ras.php. Exiting.
+Processed page 2 for karun_ras.php, total poems collected: 30
+Processed page 3 for karun_ras.php, total poems collected: 50
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for karun_ras.php, total poems collected: 50
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Processed page 2 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Processed page 3 for raudra_ras.php, total poems collected: 6
+Reached page limit for raudra_ras.php. Exiting.
+Reached page limit for raudra_ras.php. Exiting.
+Processed page 2 for veer_ras.php, total poems collected: 30
+Processed page 3 for veer_ras.php, total poems collected: 50
+Processed page 2 for veer_ras.php, total poems collected: 30
+Processed page 3 for veer_ras.php, total poems collected: 50
+Processed page 2 for bhayanak_ras.php, total poems collected: 5
+Processed page 2 for bhayanak_ras.php, total poems collected: 5
+Processed page 3 for bhayanak_ras.php, total poems collected: 5
+Reached page limit for bhayanak_ras.php. Exiting.
+Processed page 2 for veebhatsa_ras.php, total poems collected: 8
+Processed page 3 for veebhatsa_ras.php, total poems collected: 8
+Reached page limit for veebhatsa_ras.php. Exiting.
+Processed page 2 for adbhut_ras.php, total poems collected: 30
+Processed page 3 for adbhut_ras.php, total poems collected: 50
+Processed page 2 for shant_ras.php, total poems collected: 30
+Processed page 3 for shant_ras.php, total poems collected: 50
+Poetry dataset has been saved to hindi_poetry_dataset.xlsx
